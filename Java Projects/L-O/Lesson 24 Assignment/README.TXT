@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Lesson 24 Assignment
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The purpose of the project was to illustrate the use of the 'Scanner' class with lines of text that are inputted from a file and to process numbers that are embedded in the text files by using for loops, while loops and if/else statements. 
+
+VERSION or DATE: November 2014
+
+HOW TO START THIS PROJECT: ----DISCLAIMER---- Since this program used specific file directories, it cannot work without the specified files.
+
+AUTHOR: Aman Ibrahim

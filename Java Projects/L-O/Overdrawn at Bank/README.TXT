@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Overdrawn at the Bank
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The purpose of this project was to practice the use of functions in real-world programming, such as a bank accounting program. With the use of functions from the "BankAccount" class, the "tester" class was able to proccess efficiently by calling the functions when needed. Moreover, the functions were very useful when the program was interacting with the user by using scanners and multiple loops. 
+
+VERSION or DATE: October 2014
+
+HOW TO START THIS PROJECT: Use the .java files in a java compiler.
+
+AUTHOR: Aman Ibrahim
