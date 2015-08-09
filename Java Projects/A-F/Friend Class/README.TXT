@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Friend Class
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The objective of this project was to practice the concept of Linked Lists by creating a contact list that contained a string for the "friend's" name and an integer for their age. 
+
+VERSION or DATE: April 2015
+
+HOW TO START THIS PROJECT: Use the .java files in a java compliler
+
+AUTHOR: Aman Ibrahim
