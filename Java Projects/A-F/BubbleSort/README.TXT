@@ -6,4 +6,4 @@ VERSION or DATE: May 2015
 
 HOW TO START THIS PROJECT: ----DISCLAIMER---- Since this program used specific file directories, it cannot work without the specified files. 
 
-AUTHORS: Aman Ibrahim
+AUTHOR: Aman Ibrahim
