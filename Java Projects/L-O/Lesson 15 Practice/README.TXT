@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Lesson 15 Practice
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The purpose of the project was to combine the use of functions in Java with geometry mathmatics. The project created different functions that defined many properties of a circle, such as the circle's diameter, area, and perimeter
+
+VERSION or DATE: October 2014
+
+HOW TO START THIS PROJECT: Use the .java files in a java compiler
+
+AUTHOR: Aman Ibrahim
