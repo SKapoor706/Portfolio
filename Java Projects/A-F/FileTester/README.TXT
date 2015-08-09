@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: FileTester
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The objective was to understand the concept of creating and writing on files, more specifically .txt files, by creating an array of integers that are sent to the .txt file. 
+
+VERSION or DATE: November 2014
+
+HOW TO START THIS PROJECT: ----DISCLAIMER---- Since this program used specific file directories, it cannot work without the specified files. 
+
+AUTHORS: Aman Ibrahim
