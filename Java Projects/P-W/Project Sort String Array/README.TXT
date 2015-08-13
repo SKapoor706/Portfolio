@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Sort String Array
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The purpose of this project was to take an array that was in a mixed order and fiqure out a way to order it in alphabetical order. In this case, ".sort()" was used. 
+
+VERSION or DATE: October 2014
+
+HOW TO START THIS PROJECT: Use .java files in java compiler. 
+
+AUTHOR: Aman Ibrahim
