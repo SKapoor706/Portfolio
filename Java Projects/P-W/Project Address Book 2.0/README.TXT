@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Address Book 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: To improve the original Address Book by making the project more interactive and making the source code more efficent by including the "Friend" function, which allows the code to do more using less lines of code. Moreover, this was also improved by making the contact list adaptable to the user. 
+
+VERSION or DATE: Address Book v2.0 / April 2015
+
+HOW TO START THIS PROJECT: Use .java files in java comiler
+
+AUTHOR: Aman Ibrahim
