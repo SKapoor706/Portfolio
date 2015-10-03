@@ -1,10 +1,7 @@
-# Portfolio - Aman Ibrahim
+PROJECT TITLE: Phone Book
 
+PURPOSE OF PROJECT: The purpose was to create a contact list/phone book by using Python functions. This was a failed attempt.
 
-Objective: To present a compilation of student work for the purpose of evaluation 
+VERSION or DATE: July 2015
 
-Inside the portfolio, it includes the following: 
-
-      -IA Project 
-      -Extended Essay Project
-      -Multiple Programming Projects
+AUTHOR: Aman Ibrahim
