@@ -1,10 +1,1 @@
-# Portfolio - Aman Ibrahim
-
-
-Objective: To present a compilation of student work for the purpose of evaluation 
-
-Inside the portfolio, it includes the following: 
-
-      -IA Project 
-      -Extended Essay Project
-      -Multiple Programming Projects
+Within this folder, there are multiple directories that contain multiple excersises and projects in the following languages: HTML/CSS, Java, JavaScript, and Python. 
