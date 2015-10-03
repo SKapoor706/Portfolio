@@ -1,6 +1,6 @@
-PROJECT TITLE: Car
+PROJECT TITLE: Rock, Paper & Scissors 
 
-PURPOSE OF PROJECT: The purpose was to practice the concept of classes within Python.
+PURPOSE OF PROJECT: Make use of functions to program a game
 
 VERSION or DATE: July 2015
 
