@@ -1,6 +1,6 @@
-PROJECT TITLE: Multiplication_Machine
+PROJECT TITLE: Exam Statistics
 
-PURPOSE OF PROJECT: The purpose was to practice the concepts of loops, such as the "while, elif, else" loop, and functions, while interacting with the user. With the power of loops, I am able to take and integer from user input and multiply itself by the numbers that come before it. For example, if the user inputs the number "4", then the output of the program of would be "24" because 4* 3 * 2 * 1 = 24.   
+PURPOSE OF PROJECT: The purpose was to compute the mean, variance, and standard deviation of multiple test scores.
 
 VERSION or DATE: July 2015
 
