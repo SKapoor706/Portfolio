@@ -1,6 +1,6 @@
-PROJECT TITLE: Exam Statistics
+PROJECT TITLE: Car
 
-PURPOSE OF PROJECT: The purpose was to compute the mean, variance, and standard deviation of multiple test scores.
+PURPOSE OF PROJECT: The purpose was to practice the concept of classes within Python.
 
 VERSION or DATE: July 2015
 
