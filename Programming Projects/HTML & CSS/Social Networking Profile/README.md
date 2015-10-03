@@ -1,6 +1,6 @@
-PROJECT TITLE: Address Book 
+PROJECT TITLE: Social Networking Profile
 
-PURPOSE OF PROJECT: The purpose was to practice the concept of object within JavaScript to create an Address Book.
+PURPOSE OF PROJECT: The purpose was to practice the HTML basics by creating a basic profile for myself and King Kong.
 
 VERSION or DATE: August 2015
 
