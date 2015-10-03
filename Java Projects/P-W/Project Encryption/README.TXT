@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Encryption
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: Encrypting strings using functions/methods that include the use of the ".replace()" command in order to encrypt the strings inputted by a user.
+
+VERSION or DATE: December 2014
+
+HOW TO START THIS PROJECT: Use .java files in java compiler
+
+AUTHOR: Aman Ibrahim
