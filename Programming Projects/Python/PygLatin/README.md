@@ -1,10 +1,7 @@
-# Portfolio - Aman Ibrahim
+PROJECT TITLE: PygLatin
 
+PURPOSE OF PROJECT: The purpose was to practice string manipulation and branching by creating a language game. The name "PygLatin" is reference to the language game known as "Pig Latin", which also alters English words. 
 
-Objective: To present a compilation of student work for the purpose of evaluation 
+VERSION or DATE: July 2015
 
-Inside the portfolio, it includes the following: 
-
-      -IA Project 
-      -Extended Essay Project
-      -Multiple Programming Projects
+AUTHOR: Aman Ibrahim
