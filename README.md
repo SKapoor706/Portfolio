@@ -8,5 +8,6 @@ Inside the portfolio, it includes the following:
       -IA Project 
       -Extended Essay Project
       -Multiple Programming Projects
+      -Cisco Spreadsheets
 
 Read the individual "README" files to gain background information of certain files.  
