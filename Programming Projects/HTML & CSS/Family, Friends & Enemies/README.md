@@ -1,6 +1,6 @@
-PROJECT TITLE: Address Book 
+PROJECT TITLE: Family, Friends & Enemies
 
-PURPOSE OF PROJECT: The purpose was to practice the concept of object within JavaScript to create an Address Book.
+PURPOSE OF PROJECT: The purpose was to practice sorting with CSS and HTML structure.
 
 VERSION or DATE: August 2015
 
